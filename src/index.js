@@ -10,4 +10,4 @@ require('./controllers/authController')(app);
 require('./controllers/projectController')(app);
 
 app.listen(3000);
-console.log('Conected')
+console.log('Server up')

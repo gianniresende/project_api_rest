@@ -6,6 +6,9 @@
   "repository": "git@github.com:gianniresende/project_api_rest.git",
   "author": "<gianniresende> <gianniresende@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
